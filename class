@@ -5,6 +5,7 @@
 <style>
 header{
 background-color: blue:
+height: 20vh:
 )
 </style>
 <style>
@@ -13,12 +14,22 @@ background-color: blue:
 <header>
 <img id="logo" src="http://placehold.it
 </header>
+#logo{
+height: 16vh;
+margin: 2vh:
+}
+</style>
+</head.
+<body>
+
 </body>
 </html>
-
+   .column { 
+   display:inline-block:
 weidht:25vw:
 height;
 maefkboarder-rafious
 <div >[]
 dislay: inline -block;
 width; 25t%
+Border-right:1vw solid blue;
